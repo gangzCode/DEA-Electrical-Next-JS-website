@@ -1,0 +1,41 @@
+/*---------------------------
+	Fonts
+----------------------------*/
+
+// fonts
+$base-font-size: 15;
+$base-font: "Mulish", sans-serif;
+$heading-font: "Mulish", sans-serif;
+
+// color
+$dark-gray: #13287e;
+$body-color: #4c5165;
+$white: #fff;
+$light: #8188a9;
+$black: #000;
+$cyan: #848892;
+
+$body-bg-color: #fff;
+$text-color: #6e6e6e;
+$border-color: #e1e1e1;
+$border-color-s2: #d8e0f1;
+
+
+// New theme colours
+
+//// Main
+$theme-primary: #194487;
+$theme-primary-light: #5277b3;
+$theme-secondary: #189a9c;
+$theme-secondary-light: #62bfc1;
+
+//// Standard
+$grey: #cad1dc;
+$grey-light: #e2ecfc;
+$grey-very-light: #f1f7ff;
+
+
+
+
+$heading-color: $theme-primary;
+$text-light-color: $theme-secondary;
